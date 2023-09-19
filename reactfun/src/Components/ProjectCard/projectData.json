@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Weather Dashboard",
+        "image": "./assets/weatherDashboard.png",
+        "live": "https://maxwella10.github.io/WeatherDashboard/",
+        "repo": "https://github.com/Maxwella10/WeatherDashboard"
+    },
+    {
+        "title": "Work Day Scheduler",
+        "image": "./assets/workDay.png",
+        "live": "https://maxwella10.github.io/Work-Day-Scheduler/",
+        "repo": "https://github.com/Maxwella10/Work-Day-Scheduler"
+    }
+]

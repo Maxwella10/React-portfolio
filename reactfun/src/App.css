@@ -1,0 +1,15 @@
+:root {
+    --main-color: #053b50;
+    --secondary-color: #176b87;
+    --third-color: #64ccc5;
+    --fourth-color: #eeeeee;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2em;
+    background-color: var(--main-color);
+    color: var(--fourth-color);
+}
