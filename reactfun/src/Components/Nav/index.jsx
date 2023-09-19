@@ -1,18 +1,17 @@
 import React from 'react';
 
-
 function Nav() {
   return (
     <nav>
       <ul>
-        <a>
+        <a href="/">
           <li>Home</li>
         </a>
-        <a>
+        <a href="/projectGallery">
           <li>Project Gallery</li>
         </a>
-        <a>
-          <li>Project Gallery</li>
+        <a href="/contact">
+          <li>Contact</li>
         </a>
       </ul>
     </nav>
