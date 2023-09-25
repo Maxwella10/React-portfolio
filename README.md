@@ -23,8 +23,18 @@ Home: A welcoming landing page with my name, a brief introduction, and a link to
 
 Projects: A section highlighting the projects I've worked on, with project titles, descriptions, images, and links to both GitHub repositories and deployed versions.
 
-Contact: A form where visitors can get in touch with me. Upon submitting the form, users receive feedback indicating that their message has been successfully submitted. Additionally, links to my social media profiles and a PDF download option for my CV are available.
+Contact: A form where visitors can get in touch with me. Upon submitting the form, users receive feedback indicating that their message has been successfully submitted. Additionally, links to my social media profiles and a PDF download option for my CV are 
+available.
 
+
+## Features
+ Project Showcase: Display your completed projects with descriptions, images, and links.
+ Resume Integration: Include your resume or CV for easy download.
+ Contact Form: Allow visitors to get in touch with you through a contact form.
+ Responsive Design: Ensure your portfolio looks great on all devices.
+ Tech Stack: Highlight the technologies and tools you've used in your projects.
+ GitHub Integration: Link to your GitHub profile and repositories.
+ Customizable Styling: Personalize the portfolio's appearance to reflect your style.
 
 ## Technologies Used
 HTML: Used for structuring the website's content.
