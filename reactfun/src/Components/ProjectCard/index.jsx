@@ -3,7 +3,7 @@ import projectData from './projectData.json';
 
 function ProjectCard() {
   return (
-    <section>
+    <section className="projectCard">
       {projectData.map(project => (
         <div className="card" key={project.title}>
           <img src={project.image} alt={project.title} />
