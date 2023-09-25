@@ -55,3 +55,20 @@ React Hooks (useState and useEffect): Managed form state and handled form submis
 
 ## Deployment Page
 Portfolio URL : https://maxwella10.github.io/React-portfolio/
+
+## Usage
+To open this repository to your local machine:
+
+Install the required dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open your web browser and visit http://localhost:3000 to view the portfolio website locally.
+
+## Questions
+
+If you have any questions, you can reach me at: GitHub: maxwella10. Email: meziemax7@gmail.com
