@@ -6,4 +6,4 @@ Welcome to the Modern Development with React: React Portfolio project! Now that 
 
 ## Screenshot
 
-![](maxwell-portfolio)
+![](maxwell-portfolio.png)
