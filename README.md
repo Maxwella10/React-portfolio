@@ -7,3 +7,10 @@ Welcome to the Modern Development with React: React Portfolio project! Now that 
 ## Screenshot
 
 ![](maxwell-portfolio.png)
+
+
+## Project Objectives
+Build a Modern Portfolio: Develop a dynamic portfolio website using React to showcase your projects and skills.
+Demonstrate React Skills: Apply your React knowledge to create a responsive and visually appealing portfolio.
+Enhance Career Opportunities: Use this portfolio to present your work to potential employers and stand out in the job market.
+Stay Current: Keep up with the latest technologies and trends in web development.
