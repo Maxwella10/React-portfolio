@@ -24,3 +24,15 @@ Home: A welcoming landing page with my name, a brief introduction, and a link to
 Projects: A section highlighting the projects I've worked on, with project titles, descriptions, images, and links to both GitHub repositories and deployed versions.
 
 Contact: A form where visitors can get in touch with me. Upon submitting the form, users receive feedback indicating that their message has been successfully submitted. Additionally, links to my social media profiles and a PDF download option for my CV are available.
+
+
+## Technologies Used
+HTML: Used for structuring the website's content.
+
+CSS: Styled the website to achieve a polished and professional appearance.
+
+Bootstrap: Employed Bootstrap's responsive design and pre-designed components for a clean and consistent look.
+
+React: Built the website as a single-page application (SPA) using React for dynamic content rendering.
+
+React Hooks (useState and useEffect): Managed form state and handled form submission and feedback.
